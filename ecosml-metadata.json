@@ -2,6 +2,12 @@
   "id": "d8935eb8-cf67-4e05-9282-df8b84b1dabe",
   "name": "testing-name-changes",
   "overview": "This is a test",
+  "keywords": [
+    "test1"
+  ],
+  "theme": [],
+  "family": [],
+  "specific": [],
   "organization": "cstars",
   "language": "python",
   "owner": "jrmerz"
